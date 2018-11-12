@@ -22,3 +22,5 @@ We came together at [Blockchain Fundamentals Technical Reading Group](https://bl
 
 ## What's in this Repository
 
+We're currently finding key projects to collaborate on, but for now we're consolidating what has been done so far.
+
