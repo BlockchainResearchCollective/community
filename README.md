@@ -4,23 +4,22 @@ Welcome to the Collective! We hope to create a space for those interested in the
 
 ## Why do we exist?
 We'd like to take this chance to bring together the research community in Singapore through collaboratively building resources and holding meaningful events of a technical nature.
-* Undergraduates: 
-  1. Contribute to our ongoing projects
-  1. Hold workshops at your respective education instutitions.
-* Researchers: 
-  1. Share your work
-  1. Pose open research questions and gather feedback
+We do 3 things:
+
+1. Capacity-building
+1. Partnerships
+1. Inter-Uni events
 
 ## What's been happening
 We came together at [Blockchain Fundamentals Technical Reading Group](https://blockchain-nus.github.io/) and felt very strongly that such platforms held great promise for the Singapore community. It was an open space where we could discuss issues while learning about core aspects of blockchain technology.
 
 ## Contributing
 
-1. Make a fork of your repository into the Github Organisation (but please ask for permission first if it's not yours!)
-1. Reach out to us about what events you would like to see/ help to hold!
-1. Come for our events!
+### Held an event? 
+Place your slides into the [resources](https://github.com/BlockchainResearchCollective/community/tree/master/Resources) folder and add it to the event timeline by editing the [static site](https://github.com/BlockchainResearchCollective/blockchainresearchcollective.github.io)
 
-## What's in this Repository
+### Have a project?
+Make a fork of your repository into the Github Organisation
 
-We're currently finding key projects to collaborate on, but for now we're consolidating what has been done so far.
-
+### Have a suggestion?
+Open an [Issue](https://github.com/BlockchainResearchCollective/community/issues) and let's discuss!
